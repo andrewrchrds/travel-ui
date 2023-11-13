@@ -1,4 +1,6 @@
-# React + TypeScript + Vite
+# Travel Itinerary
+
+![Screenshot](/public/screenshot.png?raw=true)
 
 ```
 npm install
